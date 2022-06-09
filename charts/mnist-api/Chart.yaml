@@ -3,7 +3,7 @@ name: mnist-api
 description: A Helm chart for Kubernetes
 maintainers:
   - email: mark@thetechbattalion.com
-    name: Mark Mc Naught
+    name: markdavidmc0
 
 # A chart can be either an 'application' or a 'library' chart.
 #
